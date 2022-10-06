@@ -31,6 +31,7 @@
 		white-space: nowrap;
 		line-height: 0;
         font-size: 0.9rem;
+		z-index: 99999;
 	}
 	.current {
 		width: auto;
